@@ -4,7 +4,7 @@ I'm ABDUL SAGHEER a Full Stack Developer. I Spend most of learning and contribut
 
 :mailbox: Reach me out!
 
-![Twitter URL](https://img.shields.io/twitter/url?color=blue&label=%40abdulsagheer29&logo=Twitter&logoColor=blue&style=flat-square)[![Linkedin Badge](https://img.shields.io/badge/-ABDULSAGHEER-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-sagheer-2a529b178/) [![Instagram Badge](https://img.shields.io/badge/-@abdul__sagheer-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/abdul__sagheer) [![Mail Badge](https://img.shields.io/badge/-abdulsagheer35@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:abdulsagheer35@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/abdulsagheer29)](https://twitter.com/abdulsagheer29)[![Linkedin Badge](https://img.shields.io/badge/-ABDULSAGHEER-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-sagheer-2a529b178/) [![Instagram Badge](https://img.shields.io/badge/-@abdul__sagheer-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/abdul__sagheer) [![Mail Badge](https://img.shields.io/badge/-abdulsagheer35@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:abdulsagheer35@gmail.com)
 
 <!-- TODO: Add last video link -->
 
