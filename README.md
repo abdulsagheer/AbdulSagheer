@@ -4,7 +4,7 @@ I'm ABDUL SAGHEER a Full Stack Developer. I Spend most of learning and contribut
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/abdulsagheer29) [![Mail Badge](https://img.shields.io/badge/-CoderOne-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCDD4l-7vrO6aVlM0Nec2KAA) [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-sagheer-2a529b178/) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/abdul__sagheer) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:abdulsagheer35@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/abdulsagheer29)](https://twitter.com/abdulsagheer29) [![Mail Badge](https://img.shields.io/badge/-ABDUL-SAGHEER-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCDD4l-7vrO6aVlM0Nec2KAA) [![Linkedin Badge](https://img.shields.io/badge/-ABDUL-SAGHEER-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-sagheer-2a529b178/) [![Mail Badge](https://img.shields.io/badge/-@abdulsagheer35@gmail.com-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/abdul__sagheer) [![Mail Badge](https://img.shields.io/badge/-abdul__sagheer-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:abdulsagheer35@gmail.com)
 
 <!-- TODO: Add last video link -->
 
@@ -59,7 +59,7 @@ Soft skills:- Team Lead, Project Management, Time Management. Fast-paced learnin
 
 ------------------------------------------
 
-Gmail: - abdulsagheeras29@gmail.com
+Gmail: - abdulsagheer35@gmail.com
 
 ------------------------------------------
 
