@@ -23,7 +23,7 @@ I'm ABDUL SAGHEER a Full Stack Developer. I Spend most of learning and contribut
 
 
 #### Bness
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1jzgry9TNZsoVG1l8Ya2wf75RStCfGXs7/view?usp=sharing)
 - :email: abdulsagheer35@gmail.com
 
 
