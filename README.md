@@ -22,7 +22,7 @@ I'm ABDUL SAGHEER a Full Stack Developer. I Spend most of learning and contribut
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=gray&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=gray&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=gray&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=gray&logo=node.js&logoColor=3C873A)](#) [![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&labelColor=gray&logo=MongoDB&logoColor=green)](#) ![Python Badge](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&labelColor=gray&logo=Python&logoColor=yellow)
 
 
-#### Bness
+#### Business
 - :paperclip: [My Resume/CV](https://drive.google.com/file/d/1jzgry9TNZsoVG1l8Ya2wf75RStCfGXs7/view?usp=sharing)
 - :email: abdulsagheer35@gmail.com
 
