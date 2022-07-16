@@ -37,6 +37,7 @@ I'm ABDUL SAGHEER a Full Stack Developer. I Spend most of learning and contribut
 </summary>
 
 <br/>
+  
 I'm a Software developer 👨‍💻 practicing for over 2 years with JavaScript, Python(Django), Solidity as a Backend Framework, and MERN stack for Full-stack development, currently, I'm a 4rd-year student pursuing Electronics and Telecommunications Engineering @Dayananda Sagar College of Engineering, Bangalore. I like trying something new every day, motivating me to explore new things and get better at them.
 
 ✅ Ex-Software Development Engineer @Takunda.
