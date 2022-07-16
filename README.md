@@ -37,33 +37,41 @@ I'm ABDUL SAGHEER a Full Stack Developer. I Spend most of learning and contribut
 </summary>
 
 <br/>
-I'm a Software developer practicing for over 2 years with JavaScript, Python(Django), Solidity as a Backend Framework, and MERN stack for Full-stack development, I I like trying something new every day which keeps me motivated to explore new things and get better at them.
+I'm a Software developer 👨‍💻 practicing for over 2 years with JavaScript, Python(Django), Solidity as a Backend Framework, and MERN stack for Full-stack development, currently, I'm a 4rd-year student pursuing Electronics and Telecommunications Engineering @Dayananda Sagar College of Engineering, Bangalore. I like trying something new every day, motivating me to explore new things and get better at them.
 
-✔ Found Interest in BlockChain development for developing ⬘Ethereum Smart Contracts, Decentralized Apps, Cryptocurrency, Web3 JS,
+✅ Ex-Software Development Engineer @Takunda.
 
-✔ I have a keen interest in Python Programming and Full-stack Web development with HTML5, CSS3, Javascript, React JS, Vue JS, TypeScript, and Nest JS.
+✅ Ex-Software Development Engineer @HubinIT where I Developed Vue JS components for the front-end web pages, Implemented Front end pages for the website, and Implemented User Services for new Users.
 
-✔ I love developing and designing the website, designing a well-animated website with the power of Django, and Node js as a backend Framework.
+✅ Found Interest in BlockChain development for developing ⬘Ethereum Smart Contracts, Decentralized Apps, Cryptocurrency(฿), Web3 JS,
 
-✔ I have worked with many Databases like MySQL, PostgreSQL, and MongoDB to store data for my projects.
+✅ I am keen on Python Programming and Full-stack Web development with HTML5, CSS3, Javascript, React JS, Vue JS, TypeScript, and Nest JS.
 
-✔ I have also explored AI, ML, and Data Science.
+✅ I love developing and designing the website, designing a well-animated website with the power of Django, and Node js as a backend Framework.
 
-------------------------------------------
+✅ I have worked with many Databases like MySQL, PostgreSQL, and MongoDB to store data for my projects.
 
-Core skills:- Html5, CSS3, JavaScript, React js, Python, Django, Vue JS, TypeScript, Nest JS, Solidity, Node js, SQL, OOPS, Ethereum Smart-Contract, Data Structures and Algorithms, System Design.
+✅ I have also explored AI, ML, and Data Science.
 
-------------------------------------------
+✅ Photoshop and video editing are my Non-technical skills.
 
-Soft skills:- Team Lead, Project Management, Time Management. Fast-paced learning, Problem Solving, Adaptability, Team Management.
-
-------------------------------------------
-
-Gmail: - abdulsagheer35@gmail.com
+✅ Stock market 📈 and Forex trading™️ are what I like when I look for financial literacy.
 
 ------------------------------------------
 
-Github: - https://github.com/abdulsagheer
+→ Core skills:- Html5, CSS3, Bootstrap, TailwindCSS, JavaScript, React js, Python, Django, Vue JS, TypeScript, Nest JS, Solidity, Node js, SQL, OOPS, Ethereum Smart-Contract, Data Structures and Algorithms, System Design.
+
+------------------------------------------
+
+→ Soft skills:- Team Lead, Project Management, Time Management. Fast-paced learning, Problem Solving, Adaptability, Team Management.
+
+------------------------------------------
+
+→ Gmail✉️: - abdulsagheer35@gmail.com
+
+------------------------------------------
+
+→ Github: - https://github.com/abdulsagheer
 
 #### Coding Stats
 
