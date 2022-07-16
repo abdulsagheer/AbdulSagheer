@@ -23,7 +23,7 @@ I'm ABDUL SAGHEER a Full Stack Developer. I Spend most of learning and contribut
 
 
 #### Business
-- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1jzgry9TNZsoVG1l8Ya2wf75RStCfGXs7/view?usp=sharing)
+- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1Wx2Ww9KX1U7uHHfNllj2auKhNX_qZ3OQ/view?usp=sharing)
 - :email: abdulsagheer35@gmail.com
 
 
